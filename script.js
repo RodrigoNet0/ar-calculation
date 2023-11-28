@@ -1,3 +1,5 @@
+alert("Instruções: Adicione o periodo que deseja calcular(Mês/ano),em seguida preencha os dados abaixo e aperte em calcular.")
+
 const form = document.getElementsByTagName("form")[0];
 const consumoAparelhoEl = form["consumo-aparelho"];
 const periodoConsumoEl = form["periodo-consumo"];
